@@ -1,2 +1,2 @@
 # Movie-app
-tools used :html,css,js,bootstap,firebase
+tools used : html,css,js,bootstap,firebase
